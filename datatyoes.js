@@ -1,0 +1,35 @@
+// data types 
+//  primitive
+
+// string ""
+console.log("java54434(*&^%$")
+
+// number
+console.log(5464.654);
+
+// boolean
+console.log(true);
+
+// null
+console.log(null);
+
+// undefined
+var un ;
+console.log(un);
+
+
+// non primitive
+
+// array []
+let arr = ["java",5464,545.55,true,null]
+console.log(arr);
+
+// object {}
+
+let obj ={
+    name : "trend",
+    place : "anna nagar",
+    city : "chennai",
+    num : 6544
+}
+console.log(obj);
